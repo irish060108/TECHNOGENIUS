@@ -1,0 +1,2 @@
+# TECHNOGENIUS
+School Management System
